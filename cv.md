@@ -1,6 +1,7 @@
 
 
-​                                                                                                                                                            ![Photo de profil](img/photo.jpg) 
+​                                                                                                                                                            ![Photo de profil](photo.jpg)
+ 
 
 # **Léa LE BRUN**
 
